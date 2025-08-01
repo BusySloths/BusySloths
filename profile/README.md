@@ -1,6 +1,6 @@
 Welcome to the Busy Sloths Community! 🦥
 
-[![Logo](https://github.com/BusySloths/.github/blob/main/profile/BusySlothsBanner1.jpg?raw=true)](Logo)
+[![Logo](https://github.com/BusySloths/.github/blob/e69c8850d31be18b3da868e92bca58392c7f39a4/profile/BusySlothBanner1.jpg)](Logo)
 
 We're a group of developers building robust and scalable machine learning solutions with a little bit of sloth-like patience and a lot of focus.
 
