@@ -6,6 +6,7 @@ Our flagship project is mlox, the "MLOps-in-a-Box" framework. It's designed to h
 
 Ready to get started?
 
-    Explore mlox: Check out the main repository and documentation for our core project here.
+Check out some of my work:
+* Explore [mlox](https://github.com/busysloths/mlox) - Check out the main repository and documentation for our core project here.
 
-    Join us: We welcome contributions from developers of all skill levels. Feel free to open an issue or submit a pull request!
+* Join us: We welcome contributions from developers of all skill levels. Feel free to open an issue or submit a pull request!
