@@ -1,5 +1,7 @@
 Welcome to the Busy Sloths Community! 🦥
 
+[![Logo](https://github.com/BusySloths/.github/blob/main/profile/BusySlothsBanner1.jpg?raw=true)](Logo)
+
 We're a group of developers building robust and scalable machine learning solutions with a little bit of sloth-like patience and a lot of focus.
 
 Our flagship project is mlox, the "MLOps-in-a-Box" framework. It's designed to help you handle MLOps services and infrastructure with ease and efficiency, just like a sloth on a mission.
